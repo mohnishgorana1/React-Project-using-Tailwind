@@ -15,7 +15,7 @@ function Hero() {
               loop 
             />
         </div>
-        <p className='md:text-2xl text-l font-bold text-gray-500'>Monitor your data analytics to increase revenue for BTB, BTX, & SASS platforms</p>
+        <p className='md:text-2xl text-l font-bold text-gray-500 text-center' >Monitor your data analytics to increase revenue for BTB, BTX, & SASS platforms</p>
         <button className='bg-[#00df9a] w-[200px] text-black text-xl rounded-md font-medium my-[-10px] mx-auto py-3 '>Get Started</button>
 
        </div>
