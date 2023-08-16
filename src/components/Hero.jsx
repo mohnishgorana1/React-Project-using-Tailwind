@@ -6,7 +6,7 @@ function Hero() {
        <div className='flex flex-col items-center justify-center gap-8 max-w-[950px] mt-[-96px] w-full h-screen mx-auto'>
         <p className='text-[#00df9a] font-bold p-2'>GROWING WITH DATA ANALYTICS</p>
         <h1 className='md:text-7xl md:  sm:text-6xl text-4xl font-bold'>Grow with data</h1>  
-        <div className='flex gap-0 items-center'>
+        <div className='flex gap-1 items-center'>
             <p className='md:text-5xl sm:text-4xl text-xl font-bold'>Fast, Flexible financing for </p>
             <Typed className='md:text-5xl sm:text-4xl text-xl font-bold  text-gray-300' 
               strings={['BTB', "BTC", "SASS"]}
